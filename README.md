@@ -1,16 +1,8 @@
-# flutter_crud
+# Projeto Gestão de Pessoas
 
-A new Flutter project.
+O projeto tem como objetivo gerenciar pessoas, possuindo um CRUD completo com as possibilidades de adicionar, editar, excluir e visualizar a lista de pessoas.
 
-## Getting Started
+### O vídeo abaixo demonstra o aplicativo com suas funcionalidades:
 
-This project is a starting point for a Flutter application.
+https://github.com/EduardoSilva03/projeto_crud_pac/assets/98607806/b7aa02ca-602a-471e-9738-90c19f5b3061
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
